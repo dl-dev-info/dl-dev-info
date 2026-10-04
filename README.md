@@ -25,7 +25,7 @@
 
 🌐 **Site portfolio** `HTML/CSS/JS` • Mon site personnel, codé à la main sans framework. Mise en ligne à venir.
 
-🐍 [Pendu](https://github.com/dl-dev-info/sonate_pendu) `Python/Flask` • Jeu du pendu jouable dans le navigateur, avec un back-end Flask.
+🐍 [Pendu](https://github.com/legentil-damien/sonate_pendu) `Python/Flask` • Jeu du pendu jouable dans le navigateur, avec un back-end Flask.
 
 <br>
 
@@ -43,13 +43,11 @@
 
 ---
 
-🕹️ [Processing](https://le-pigeon-baladeur.itch.io/processing) `GameMaker` • Jeu incrémental au style rétro, disponible en playtest.
+🕹️ [Processing](https://le-pigeon-baladeur.itch.io) `GameMaker` • Jeu incrémental au style rétro, disponible en playtest.
 
-🐦 [Piaf Express](https://le-pigeon-baladeur.itch.io/piaf-express) `GameMaker` • Platformer publié sur itch.io.
+🐦 [Piaf Express](https://le-pigeon-baladeur.itch.io) `GameMaker` • Platformer publié sur itch.io.
 
-📜 [Form-404](https://le-pigeon-baladeur.itch.io/form-404) `GameMaker` • Jeu de simulation bureaucratique.
-
-⏱️ [Speed_Run](https://le-pigeon-baladeur.itch.io/speed-run) `GameMaker` • Platformer pensé pour le speedrun.
+⏱️ [Speed_Run](https://le-pigeon-baladeur.itch.io) `GameMaker` • Platformer pensé pour le speedrun.
 
 🥚 **Break Eggs** `GameMaker` • Casse-briques sur le thème des pigeons, en cours de développement.
 
