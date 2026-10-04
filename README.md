@@ -11,7 +11,7 @@
 
 **Étudiant en Bachelor Informatique (Bac+3) à SUPINFO** et **développeur de jeux en solo**. Je code des sites et des outils en Python, je sors mes propres jeux et j'administre mon serveur perso.
 
-🎯 **Je cherche un stage de 2 mois** en développement ou en systèmes et réseaux, entre **mi-juin et fin septembre 2027**.
+🎯 **Je cherche un stage de 2 mois** en développement ou en systèmes et réseaux, entre **le 07-juin et le 31-août 2027**.
 
 **Python** 🐍 · **HTML / CSS** 🌐 · **GameMaker (GML)** 🎮 · **Docker** 🐳
 
