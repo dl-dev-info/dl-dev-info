@@ -43,11 +43,13 @@
 
 ---
 
-🕹️ [Processing](https://le-pigeon-baladeur.itch.io) `GameMaker` • Jeu incrémental au style rétro, disponible en playtest.
+🕹️ [Processing](https://le-pigeon-baladeur.itch.io/processing) `GameMaker` • Jeu incrémental au style rétro, disponible en playtest.
 
-🐦 [Piaf Express](https://le-pigeon-baladeur.itch.io) `GameMaker` • Platformer publié sur itch.io.
+🐦 [Piaf Express](https://le-pigeon-baladeur.itch.io/piaf-express) `GameMaker` • Platformer publié sur itch.io.
 
-⏱️ [Speed_Run](https://le-pigeon-baladeur.itch.io) `GameMaker` • Platformer pensé pour le speedrun.
+📜 [Form-404](https://le-pigeon-baladeur.itch.io/form-404) `GameMaker` • Jeu de simulation bureaucratique.
+
+⏱️ [Speed_Run](https://le-pigeon-baladeur.itch.io/speed-run) `GameMaker` • Platformer pensé pour le speedrun.
 
 🥚 **Break Eggs** `GameMaker` • Casse-briques sur le thème des pigeons, en cours de développement.
 
