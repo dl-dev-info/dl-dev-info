@@ -25,7 +25,7 @@
 
 🌐 **Site portfolio** `HTML/CSS/JS` • Mon site personnel, codé à la main sans framework. Mise en ligne à venir.
 
-🐍 [Pendu](https://github.com/) `Python/Flask` • Jeu du pendu jouable dans le navigateur, avec un back-end Flask.
+🐍 [Pendu](https://github.com/dl-dev-info/sonate_pendu) `Python/Flask` • Jeu du pendu jouable dans le navigateur, avec un back-end Flask.
 
 <br>
 
