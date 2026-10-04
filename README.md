@@ -24,6 +24,7 @@
 ---
 
 🌐 [Site portfolio](https://legentil-damien.github.io) `HTML/CSS/JS` • Mon site personnel, codé à la main sans framework. Projet en cours de développement, suite à l'apprentissage de nouvelles technologies au sein de mon école.
+
 🐍 [Pendu](https://github.com/legentil-damien/sonate_pendu) `Python/Flask` • Jeu du pendu jouable dans le navigateur, avec un back-end Flask.
 
 <br>
